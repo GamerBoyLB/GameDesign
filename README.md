@@ -1,2 +1,3 @@
 # GameDesign
-My games will show up here!
+
+Welcome! My games will show up here!
